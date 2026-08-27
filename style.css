@@ -1,0 +1,14 @@
+#judul {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.image {
+  height: 150px;
+}
+body {
+  background-color: cyan;
+  text-align: left;
+}
+table {
+  background-color: navy;
+  color: cyan;
+}
